@@ -32,7 +32,15 @@ Our documentation is designed to help new team members quickly understand their 
 
 ### Supporting Documents
 
-- **[Roles & Personas](octoacme-roles-and-personas.md)** - Detailed definitions of Developers, Product Managers, and Project Managers including responsibilities, goals, and typical communication patterns.
+- **[Roles & Personas](octoacme-roles-and-personas.md)** - Detailed definitions of all team roles including Developers, Product Managers, Project Managers, Release Coordinators, Risk Champions, QA Leads, and Onboarding Facilitators with responsibilities, goals, and interaction patterns.
+
+### Templates & Checklists
+
+- **[Release Coordination Checklist](template-release-coordination-checklist.md)** - Comprehensive checklist for pre-release readiness, deployment, and post-deployment activities to ensure smooth releases.
+
+- **[Risk Escalation Paths](template-risk-escalation-paths.md)** - Detailed escalation procedures for different risk levels, including templates and examples for effective risk management.
+
+- **[Onboarding Checklist](template-onboarding-checklist.md)** - Complete onboarding guide for new team members covering pre-start through 90-day milestones with role-specific objectives.
 
 ## Getting Started
 

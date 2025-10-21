@@ -21,7 +21,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Manual QA for feature acceptance when needed (coordinated by QA Lead)
+
+The **QA Lead** defines the test strategy, reviews test coverage, and provides quality sign-off before releases.
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -32,6 +34,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
+
+For risks requiring escalation, the **Risk Champion** facilitates the escalation process. See [Risk Escalation Paths Template](template-risk-escalation-paths.md) for detailed procedures.
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
