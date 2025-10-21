@@ -16,8 +16,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Project One-pager (Problem, Goal, Success Metrics)
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
-- Initial risk list
+- Initial risk list (start Risk Register with Risk Champion)
 - Resource needs (team roles, rough effort estimate)
+- Onboarding plan for new team members (coordinate with Onboarding Facilitator)
 
 ## Project One-pager Template
 - Project name:
@@ -35,6 +36,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Onboarding plan prepared for new team members (see [Onboarding Checklist Template](template-onboarding-checklist.md))
 
 ## Decision Gate
 Move to planning when:
